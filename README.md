@@ -7,8 +7,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Chiragvarshney23/LEETCODE/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Chiragvarshney23/LEETCODE/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Chiragvarshney23/LEETCODE/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
