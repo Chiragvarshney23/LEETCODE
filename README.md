@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Chiragvarshney23/LEETCODE/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
