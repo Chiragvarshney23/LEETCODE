@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0018-4sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Backtracking
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Chiragvarshney23/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -144,4 +147,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0620-not-boring-movies/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Chiragvarshney23/LEETCODE/tree/main/1193-monthly-transactions-i/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Chiragvarshney23/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
